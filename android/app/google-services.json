@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825988138895",
+    "project_id": "fir-mobile-7dc8a",
+    "storage_bucket": "fir-mobile-7dc8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825988138895:android:d119b58fdf3164ce68adfa",
+        "android_client_info": {
+          "package_name": "com.example.flutter_proyek_uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLBsKebH-710GmRlL5vMG8-wUdY5x3f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
